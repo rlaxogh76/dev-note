@@ -52,7 +52,7 @@ end
 
 ### 메타프로그래밍과 DSL 개발
 
-Ruby는 런타임에 코드를 수정하거나 생성할 수 있는 메타프로그래밍 기능을 제공한다. 이 기능은 내부 DSL(Domain Specific Language) 구현을 용이하게 하며, Ruby on Rails와 같은 프레임워크의 기반이 되기도 한다.
+Ruby는 런타임에 코드를 수정하거나 생성할 수 있는 메타프로그래밍 기능을 제공한다. 이 기능은 내부 DSL(Domain Specific Language) 구현을 용이하게 하며, [Ruby on Rails](./Ruby_on_Rails.md)와 같은 프레임워크의 기반이 되기도 한다.
 
 ```
 define_method(:say_hello) do
